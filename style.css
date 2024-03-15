@@ -3,3 +3,15 @@ body {
   background-position: top left;
   background-repeat: no-repeat;
 }
+
+.container {
+  background-color: #ddc88b;
+  height: 50rem;
+  width: 50rem;
+  margin: auto;
+  margin-top: 5rem;
+}
+
+.form {
+  text-align: center;
+}
