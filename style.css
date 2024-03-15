@@ -12,6 +12,37 @@ body {
   margin-top: 5rem;
 }
 
+.form-img {
+  width: 25rem;
+  margin: auto;
+  margin-top: 4rem;
+}
+
+h2 {
+  color: white;
+  font-size: 1.5rem;
+}
+
 .form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
+  color: white;
+}
+
+input {
+  width: 80%;
+  margin: 5px;
+}
+
+#button {
+  padding: 3px;
+  margin: 15px;
+  border-radius: 5px;
+  border: none;
+  background-color: #fa7465;
+  color: white;
+  font-size: 1rem;
 }
